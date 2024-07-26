@@ -1,0 +1,10 @@
+/home/dragon/Programming/c#Dev/aspnetcoreapp/bin/Debug/netcoreapp2.0/aspnetcoreapp.deps.json
+/home/dragon/Programming/c#Dev/aspnetcoreapp/bin/Debug/netcoreapp2.0/aspnetcoreapp.runtimeconfig.json
+/home/dragon/Programming/c#Dev/aspnetcoreapp/bin/Debug/netcoreapp2.0/aspnetcoreapp.runtimeconfig.dev.json
+/home/dragon/Programming/c#Dev/aspnetcoreapp/bin/Debug/netcoreapp2.0/aspnetcoreapp.dll
+/home/dragon/Programming/c#Dev/aspnetcoreapp/bin/Debug/netcoreapp2.0/aspnetcoreapp.pdb
+/home/dragon/Programming/c#Dev/aspnetcoreapp/obj/Debug/netcoreapp2.0/aspnetcoreapp.csproj.CoreCompileInputs.cache
+/home/dragon/Programming/c#Dev/aspnetcoreapp/obj/Debug/netcoreapp2.0/aspnetcoreapp.AssemblyInfoInputs.cache
+/home/dragon/Programming/c#Dev/aspnetcoreapp/obj/Debug/netcoreapp2.0/aspnetcoreapp.AssemblyInfo.cs
+/home/dragon/Programming/c#Dev/aspnetcoreapp/obj/Debug/netcoreapp2.0/aspnetcoreapp.dll
+/home/dragon/Programming/c#Dev/aspnetcoreapp/obj/Debug/netcoreapp2.0/aspnetcoreapp.pdb

@@ -1,0 +1,1 @@
+This repository is for my personal messing around with C#, Visual Studio Code, .NET Core, and ASP.Net in the Linux environment.
